@@ -61,3 +61,9 @@ var1 = 1002
 var2 = 53 
 
 print(1002 % 53)
+
+print("Good-Bye!")
+print("1 gram = 1000 milligrams")
+print("I live")
+print("on Earth")
+print("Say \"please\" when you want something.")      
